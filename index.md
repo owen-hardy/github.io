@@ -19,10 +19,10 @@ Recent Philosophy graduate from the University of California, Davis. I’m curre
 
 ## Currently Learning
 
-- Multivariate Calculus & Differential Equations
+- Multivariable Calculus & Differential Equations
 - UC San Diego Data Structures and Algorithms Specialization
 - Preparing for CU Boulder’s MS in Artificial Intelligence
 
 ---
 
-*Last updated: May 2026*
+*Last updated: 2026-05-27*
